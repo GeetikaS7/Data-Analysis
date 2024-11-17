@@ -10,38 +10,40 @@ The goal is to provide an in-depth analysis of COVID-19 trends, enabling governm
 
 **1. Data Collection:**
 
--Source COVID-19 data from reliable platforms like Kaggle or government health websites.
--Gather auxiliary datasets, such as population density, healthcare capacity, and vaccination data, for deeper analysis.
+Source COVID-19 data from reliable platforms like Kaggle or government health websites.
+Gather auxiliary datasets, such as population density, healthcare capacity, and vaccination data, for deeper analysis.
 
 **2. Data Cleaning and Preprocessing:**
 
--Handle missing values, inconsistent formats, and outliers.
--Format data for time-series and geographical analysis.
+Handle missing values, inconsistent formats, and outliers.
+Format data for time-series and geographical analysis.
 
 **3. Exploratory Data Analysis (EDA):**
 
--Analyze global and regional trends in confirmed cases, recoveries, and fatalities.
--Examine correlations with factors like population density, age distribution, and healthcare infrastructure.
--Identify hotspots and their temporal progression using visualizations.
+Analyze global and regional trends in confirmed cases, recoveries, and fatalities.
+Examine correlations with factors like population density, age distribution, and healthcare infrastructure.
+Identify hotspots and their temporal progression using visualizations.
 
 **4. Data Visualization:**
 
--Create dashboards using tools like Power BI, Tableau, or Python (Matplotlib/Plotly).
--Include time-series graphs, heatmaps, and choropleth maps to display trends and geographical patterns.
--Visualize vaccination progress and its correlation with case trends.
+Create dashboards using tools like Power BI, Tableau, or Python (Matplotlib/Plotly).
+Include time-series graphs, heatmaps, and choropleth maps to display trends and geographical patterns.
+Visualize vaccination progress and its correlation with case trends.
 
 **5. Sentiment Analysis (Optional):**
 
--Analyze public sentiment about COVID-19 using social media data or surveys.
--Use NLP techniques to categorize sentiments related to lockdowns, vaccinations, or policies.
+Analyze public sentiment about COVID-19 using social media data or surveys.
+Use NLP techniques to categorize sentiments related to lockdowns, vaccinations, or policies.
 
 **Challenges:**
--Dealing with incomplete or inconsistent data from different regions.
--Accounting for biases in data reporting and varying testing rates.
+Dealing with incomplete or inconsistent data from different regions.
+Accounting for biases in data reporting and varying testing rates.
 
 **Tools and Technologies:**
--Programming: Python
--Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
+
+Programming: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
 
 **Impact:**
 This project provides critical insights Total death cases, active cases across different states of India for pandemic management, recovery rate, enabling data-driven decisions on containment strategies, resource allocation, and vaccination campaigns. It also helps inform the public about the state of the pandemic through clear and interactive visualizations.
